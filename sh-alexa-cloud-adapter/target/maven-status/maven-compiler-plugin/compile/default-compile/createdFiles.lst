@@ -1,0 +1,6 @@
+com/alexa/controllers/AuthController.class
+com/alexa/dto/Token.class
+com/alexa/AlexaApplication.class
+com/alexa/controllers/LoginController.class
+com/alexa/controllers/IntentController.class
+com/alexa/dto/Login.class

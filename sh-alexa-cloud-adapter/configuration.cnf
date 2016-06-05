@@ -1,0 +1,19 @@
+[req]
+distinguished_name = req_distinguished_name
+x509_extensions = v3_req
+prompt = no
+ 
+[req_distinguished_name]
+C = UA
+ST = UA
+L = Lviv
+O = GL
+CN = Verizon Smart Home
+ 
+[v3_req]
+keyUsage = keyEncipherment, dataEncipherment
+extendedKeyUsage = serverAuth
+subjectAltName = @subject_alternate_names
+ 
+[subject_alternate_names]
+DNS.1 = ec2-52-26-184-232.us-west-2.compute.amazonaws.com

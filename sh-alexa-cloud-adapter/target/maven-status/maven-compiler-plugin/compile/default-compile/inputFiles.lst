@@ -1,0 +1,6 @@
+/Users/denys/Development/amazon-echo/lambda/alexa-adapter/src/main/java/com/alexa/AlexaApplication.java
+/Users/denys/Development/amazon-echo/lambda/alexa-adapter/src/main/java/com/alexa/controllers/IntentController.java
+/Users/denys/Development/amazon-echo/lambda/alexa-adapter/src/main/java/com/alexa/dto/Login.java
+/Users/denys/Development/amazon-echo/lambda/alexa-adapter/src/main/java/com/alexa/controllers/AuthController.java
+/Users/denys/Development/amazon-echo/lambda/alexa-adapter/src/main/java/com/alexa/controllers/LoginController.java
+/Users/denys/Development/amazon-echo/lambda/alexa-adapter/src/main/java/com/alexa/dto/Token.java

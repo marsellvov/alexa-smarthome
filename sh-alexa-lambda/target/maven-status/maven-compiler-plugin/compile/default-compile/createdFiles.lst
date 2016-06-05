@@ -1,0 +1,8 @@
+com/vshc/custom/skill/SmartHomeSpeechlet.class
+com/vshc/Header.class
+com/vshc/Appliance.class
+com/vshc/Hello.class
+com/vshc/custom/skill/SpeechletRequestHandler.class
+com/vshc/Response.class
+com/vshc/Request.class
+com/vshc/Payload.class
